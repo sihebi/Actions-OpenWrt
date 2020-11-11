@@ -20,5 +20,5 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 sed -i '$a src-git openappfilter https://github.com/destan19/OpenAppFilter.git' feeds.conf.default
 
 # Add SSR+ source
-sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
+# sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 
